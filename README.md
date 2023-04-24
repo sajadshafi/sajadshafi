@@ -1,55 +1,8 @@
-<head>
-
-</head>
-
-
 ## Hi 👋! My name is Sajad Shafi and I'm a Software Engineer
 
 # 💫 About Me <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
 <div class="about-section">
-  <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-  .gif-anime {
-      height: 100%;
-      width: 300px;
-      border-radius: 5px;
-      margin-right: 1rem;
-    }
-    @media screen and (min-width: 992px) {
-      .about-me {
-        border-left: 2px solid #e5289e;
-        padding-left: 1rem;
-      }
-      .about-section {
-        display: flex;
-      }
-    }
-    @media only screen and (max-width: 992px) and (min-width: 768px) {
-      .gif-anime {
-        width: 400px !important;
-        border-radius: 5px;
-      }
-    }
-    @media screen and (max-width: 992px) {
-      .about-section {
-        display: flex;
-        flex-direction: column;
-      }
-      .about-me {
-        margin-top: 1rem !important;
-      }
-    }
-    @media screen and (max-width: 768px) {
-      .gif-anime {
-        width: 100% !important;
-        border-radius: 5px;
-      }
-    }
-  </style>
-        </div>
-    </foreignObject>
   <img class="gif-anime" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
   <p class="about-me"> A highly motivated and detail-oriented software engineer with a strong desire to create innovative solutions. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C# and .Net Core, as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
 </div>
