@@ -1,15 +1,52 @@
-<h2 align="left">Hi 👋! My name is Sajad Shafi and I'm a Software Engineer</h2>
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+
+## Hi 👋! My name is Sajad Shafi and I'm a Software Engineer
 
 # 💫 About Me <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
-🔭 I’m currently working on C#, .Net, Javascript, Typescript<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with open source<br>
-🌱 I’m currently learning **Architectures**, **Design Patterns** and **SOLID Principles**<br>
-💬 Ask me about C#, .NET, Javascript, React Js<br>
-⚡ Fun fact
+<div class="about-section">
+  <img class="gif-anime" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+  <p class="about-me"> A highly motivated and detail-oriented software engineer with a strong desire to create innovative solutions. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C# and .Net Core, as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
+</div>
+
+## Skills <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+
+  <span>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+      <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Experienced in C#, ASP NET, .Net Core and SQL Server</span>
+
+  <span>
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Proficient in HTML, CSS, JavaScript, ReactJS, and NextJS</span>
+
+  <span>
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Good knowledge of Typescript</span>
+
+  <span>
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Strong understanding of software development</span>
+  
+  <span>
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Proficient in debugging</span>
+  
+  <span>
+      <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+        <path fill-rule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8z"></path></svg>
+  </span>
+  <span style="margin-left:4px;">Experience with version control systems such as Git</span>
+</ul>
 
 <br>
 
@@ -23,50 +60,49 @@
 
 <br>
 
+## 💻 Tech Stack <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
-# 💻 Tech Stack <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+- ### Programming Languages
 
-- ## Programming Languages <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ### Frontend
 
-- ## Frontend <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+- ### Frameworks/Libraries/Packages
 
-- ## Frameworks/Libraries/Packages <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=flat&logo=xamarin&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ### Databases
 
-- ## Databases <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+- ### Tools
 
-- ## Tools <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
+![Git](https://camo.githubusercontent.com/f7c3ee03e8c0f6b42e081dbc1d4baf4d524919bc7272ad550020871b8cd5ee98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br clear="both">
 
-<br/>
-
-# 🌐 Social Media <img style="width:15px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+## 🌐 Social Media <img style="width:15px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajadshafi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sajadshafi)
