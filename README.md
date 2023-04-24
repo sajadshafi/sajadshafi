@@ -1,4 +1,44 @@
-<link rel="stylesheet" href="profile.css">
+<head>
+<style>
+  .gif-anime {
+      height: 100%;
+      width: 300px;
+      border-radius: 5px;
+      margin-right: 1rem;
+    }
+    @media screen and (min-width: 992px) {
+      .about-me {
+        border-left: 2px solid #e5289e;
+        padding-left: 1rem;
+      }
+      .about-section {
+        display: flex;
+      }
+    }
+    @media only screen and (max-width: 992px) and (min-width: 768px) {
+      .gif-anime {
+        width: 400px !important;
+        border-radius: 5px;
+      }
+    }
+    @media screen and (max-width: 992px) {
+      .about-section {
+        display: flex;
+        flex-direction: column;
+      }
+      .about-me {
+        margin-top: 1rem !important;
+      }
+    }
+    @media screen and (max-width: 768px) {
+      .gif-anime {
+        width: 100% !important;
+        border-radius: 5px;
+      }
+    }
+  </style>
+</head>
+
 
 ## Hi 👋! My name is Sajad Shafi and I'm a Software Engineer
 
