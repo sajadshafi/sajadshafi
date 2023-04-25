@@ -101,11 +101,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Why C#? A brief introduction about C#.](https://www.birdscode.com//why-c-a-brief-introduction-about-c)
-- [Selected Poems of ChatGPT. Having fun with ChatGPT🤔.](https://www.birdscode.com//selected-poems-of-chatgpt-having-fun-with-chatgpt)
-- [The Searching Saga: From Linear to Binary and Beyond - A Quest to Find the Perfect Algorithm](https://www.birdscode.com//the-searching-saga-from-linear-to-binary-and-beyond---a-quest-to-find-the-perfect-algorithm)
-- [.NET core web API Login and Registration using Identity](https://www.birdscode.com//net-core-web-api-login-and-registration-using-identity)
-- [JWT Authentication in C# .NET Core 7 Web API.](https://www.birdscode.com//jwt-authentication-in-c-net-core-7-web-api)
+- [Why C#? A brief introduction about C#.](https://www.birdscode.com//articles/why-c-a-brief-introduction-about-c)
+- [Selected Poems of ChatGPT. Having fun with ChatGPT🤔.](https://www.birdscode.com//articles/selected-poems-of-chatgpt-having-fun-with-chatgpt)
+- [The Searching Saga: From Linear to Binary and Beyond - A Quest to Find the Perfect Algorithm](https://www.birdscode.com//articles/the-searching-saga-from-linear-to-binary-and-beyond---a-quest-to-find-the-perfect-algorithm)
+- [.NET core web API Login and Registration using Identity](https://www.birdscode.com//articles/net-core-web-api-login-and-registration-using-identity)
+- [JWT Authentication in C# .NET Core 7 Web API.](https://www.birdscode.com//articles/jwt-authentication-in-c-net-core-7-web-api)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://res.cloudinary.com/dey4dramc/image/upload/v1682334118/snake_ujoyoz.svg" alt="Snake animation" />
