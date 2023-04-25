@@ -4,10 +4,10 @@
 
 <div class="about-section">
   <img class="gif-anime" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
-  <p style="margin-top:.5rem;" class="about-me"> A highly motivated and detail-oriented software engineer with a strong desire to create innovative solutions. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C# and .Net Core, as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
+  <p style="margin-top:.5rem;" class="about-me"> A highly motivated and detail-oriented software engineer. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in <b>C#</b>, <b>.Net Core</b> and <b>React js</b> as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
 </div>
 
-## Skills <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+## 🛠️ Skills <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
   <span>
     <img src="./arrow.svg" />
@@ -39,16 +39,6 @@
   </span>
   <span style="margin-left:4px;">Experience with version control systems such as Git</span>
 </ul>
-<br>
-
-## 📊 GitHub Stats <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadshafi&hide_title=true&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadshafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadshafi&theme=synthwave&hide_border=false" height="150" alt="Achievements"  />
-</div>
-
 <br>
 
 ## 💻 Tech Stack <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
@@ -90,15 +80,27 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
 ![Git](https://camo.githubusercontent.com/f7c3ee03e8c0f6b42e081dbc1d4baf4d524919bc7272ad550020871b8cd5ee98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<br>
 
-<br clear="both">
+## 📊 GitHub Stats <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadshafi&hide_title=true&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadshafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadshafi&theme=synthwave&hide_border=false" height="150" alt="Achievements"  />
+</div>
+
+<br>
 
 ## 🌐 Social Media <img style="width:15px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajadshafi)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sajadshafi)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sajadshafi_dev)
-
 <br clear="both">
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <img src="https://res.cloudinary.com/dey4dramc/image/upload/v1682334118/snake_ujoyoz.svg" alt="Snake animation" />
