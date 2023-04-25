@@ -1,12 +1,10 @@
-<link rel="stylesheet" href="profile.css">
-
 ## Hi 👋! My name is Sajad Shafi and I'm a Software Engineer
 
 # 💫 About Me <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
 <div class="about-section">
   <img class="gif-anime" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
-  <p class="about-me"> A highly motivated and detail-oriented software engineer with a strong desire to create innovative solutions. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C# and .Net Core, as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
+  <p style="margin-top:.5rem;" class="about-me"> A highly motivated and detail-oriented software engineer with a strong desire to create innovative solutions. I have a solid foundation in computer science principles and a track record of producing high-quality software. In my current position, I have designed and maintained software applications in C# and .Net Core, as well as collaborated with cross-functional teams to design and implement software solutions. In addition to my technical abilities, I have excellent problem-solving and communication skills, and I am always eager to learn and improve.</p>
 </div>
 
 ## Skills <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
