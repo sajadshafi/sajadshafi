@@ -85,8 +85,8 @@
 ## 📊 GitHub Stats <img style="width:20px;" src="https://res.cloudinary.com/dey4dramc/image/upload/v1682335394/right-arrow_ojgvmh.png"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sajadshafi&hide_title=true&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajadshafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajadshafi&hide_title=true&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sajadshafi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajadshafi&theme=synthwave&hide_border=false" height="150" alt="Achievements"  />
 </div>
 
