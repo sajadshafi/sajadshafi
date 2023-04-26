@@ -99,7 +99,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sajadshafi_dev)
 <br clear="both">
 
-# Blog posts
+# 📝 Latest articles
 <!-- BLOG-POST-LIST:START -->
 - [Why C#? A brief introduction about C#.](https://www.birdscode.com/articles/why-c-a-brief-introduction-about-c)
 - [Selected Poems of ChatGPT. Having fun with ChatGPT🤔.](https://www.birdscode.com/articles/selected-poems-of-chatgpt-having-fun-with-chatgpt)
