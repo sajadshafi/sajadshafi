@@ -102,10 +102,10 @@
 # 📝 Latest articles
 <!-- BLOG-POST-LIST:START -->
 - [Implementing Firebase auth in React js, Typescript, Vite js](https://www.birdscode.com/articles/implementing-firebase-auth-in-react-js-typescript-vite-js)
+- [Implementing Firebase auth in React js, Typescript, Vite js](https://medium.com/@sajadshafi/implementing-firebase-auth-in-react-js-typescript-vite-js-88465ac84170?source=rss-64a250bc51d1------2)
 - [Why C#? A brief introduction about C#.](https://www.birdscode.com/articles/why-c-a-brief-introduction-about-c)
 - [Selected Poems of ChatGPT. Having fun with ChatGPT🤔.](https://www.birdscode.com/articles/selected-poems-of-chatgpt-having-fun-with-chatgpt)
 - [The Searching Saga: From Linear to Binary and Beyond - A Quest to Find the Perfect Algorithm](https://www.birdscode.com/articles/the-searching-saga-from-linear-to-binary-and-beyond---a-quest-to-find-the-perfect-algorithm)
-- [.NET core web API Login and Registration using Identity](https://www.birdscode.com/articles/net-core-web-api-login-and-registration-using-identity)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://res.cloudinary.com/dey4dramc/image/upload/v1682334118/snake_ujoyoz.svg" alt="Snake animation" />
