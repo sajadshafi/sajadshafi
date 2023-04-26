@@ -16,4 +16,4 @@ jobs:
       - name: Pull in birdscode.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.birdscode.com/feed.xml"
+          feed_list: "https://www.birdscode.com/feed.xml,https://medium.com/@sajadshafi"
