@@ -101,11 +101,11 @@
 
 # 📝 Latest articles
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Firebase auth in React js, Typescript, Vite js](https://www.birdscode.com/articles/implementing-firebase-auth-in-react-js-typescript-vite-js)
-- [Why C#? A brief introduction about C#.](https://www.birdscode.com/articles/why-c-a-brief-introduction-about-c)
-- [Selected Poems of ChatGPT. Having fun with ChatGPT🤔.](https://www.birdscode.com/articles/selected-poems-of-chatgpt-having-fun-with-chatgpt)
-- [The Searching Saga: From Linear to Binary and Beyond - A Quest to Find the Perfect Algorithm](https://www.birdscode.com/articles/the-searching-saga-from-linear-to-binary-and-beyond---a-quest-to-find-the-perfect-algorithm)
-- [.NET core web API Login and Registration using Identity](https://www.birdscode.com/articles/net-core-web-api-login-and-registration-using-identity)
+- [Exploring Unit testing - C# Essentials](https://sajadshafi.com/blog/unit-testing-csharp-dotnet)
+- [Logging and monitoring the dotnet API using serilog and Azure Application Insights](https://sajadshafi.com/blog/logging-monitoring-csharp-dotnet)
+- [.Net core web API Login and Registration using Identity](https://sajadshafi.com/blog/dotnet-webapi-user-registration-login)
+- [JWT Authentication in C# .NET Core 7 Web API](https://sajadshafi.com/blog/jwt-auth-with-net-core)
+- [Implementing Firebase auth in React, Typescript, Vite](https://sajadshafi.com/blog/firebase-auth-react-typescript-vite)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://res.cloudinary.com/dey4dramc/image/upload/v1682334118/snake_ujoyoz.svg" alt="Snake animation" />
